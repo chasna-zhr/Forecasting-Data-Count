@@ -1,4 +1,4 @@
-# Forecasting with GSTAR and GSTAR-Poisson  
+# Forecasting with GSTAR and GSTAR-Poisson
 
 This repository contains a collection of code implementations for **forecasting count data** using the **Generalized Space Time Autoregressive (GSTAR)** and **GSTAR-Poisson** methods.  
 
