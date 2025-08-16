@@ -1,4 +1,4 @@
-library(readxl)
+library(readxl) 
 #Obtain Data on the Number of Rainy Days (Y1, Y2, Y3)
 Yt <−read excel(”C:/Users/HP/Documents/Tugas Akhir/R Studio/Jumlah Hari
 Hujan.xlsx”)
